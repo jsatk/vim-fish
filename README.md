@@ -1,3 +1,5 @@
+# This fork is deprecated. It is no longer necessary as @dag has merged the fix contained in this repo directly into his. See https://github.com/dag/vim-fish/pull/37/#issuecomment-346464489
+
 vim-fish
 ========
 
